@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Author on 레이븐어스</title>
+    <link>https://ravenearth.com/author/</link>
+    <description>Recent content in Author on 레이븐어스</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-KR</language>
+    <lastBuildDate>Tue, 23 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://ravenearth.com/author/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>기업활동</title>
+      <link>https://ravenearth.com/author/%EA%B8%B0%EC%97%85%ED%99%9C%EB%8F%99/</link>
+      <pubDate>Tue, 23 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ravenearth.com/author/%EA%B8%B0%EC%97%85%ED%99%9C%EB%8F%99/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
