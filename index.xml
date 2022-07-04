@@ -6,7 +6,7 @@
     <description>Recent content in CONTACT WITH THE VAST WORLD on 레이븐어스</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-KR</language>
-    <lastBuildDate>Tue, 07 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://ravenearth.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 24 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://ravenearth.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
       <link>https://ravenearth.com/pages/about/</link>
@@ -27,6 +27,21 @@
       
       <guid>https://ravenearth.com/pages/services/</guid>
       <description>한글 낱자 놀이 딱지 - 우왕좌왕 세종대왕 콘텐츠 원본 증명 서비스 - 콘솔브 영상 제작 서비스 한국 어도비 공인 리셀러 </description>
+    </item>
+    
+    <item>
+      <title>정관</title>
+      <link>https://ravenearth.com/ir/aoi/</link>
+      <pubDate>Fri, 24 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ravenearth.com/ir/aoi/</guid>
+      <description>이 정관의 최종 수정일은 2022년 06월 24일임.
+제1장 총칙 제1조 ( 상호 )
+당 회사는 주식회사 레이븐어스라 하며, 영문으로는 RAVNUS Inc.라 표기한다.
+제2조 ( 목적 )
+당 회사는 다음 사업을 목적으로 한다.
+광고업 영화, 비디오물, 방송 프로그램 제작 및 배급업 전자 부품, 컴퓨터, 영상, 음향 및 통신장비 제조업 소프트웨어 개발 및 공급업 위 각 호에 관련된 부대사업 일체 제3조 ( 본점과 지점 )
+당 회사는 본점을 경기도 안산시 내에 둔다.</description>
     </item>
     
     <item>
@@ -69,21 +84,6 @@
 담당업무 SMB 프로토콜을 활용한 영상 프로덕션 시스템 제작 보조
 자격요건 SW융합대학 학부 재학생 (연계전공자 가능, 휴학생 및 연구인턴십 참여 불가) 콘텐츠 혹은 소프트웨어 이해도가 높으신 분 [우대사항] 어도비 시스템즈(크리에이티브 클라우드) 이해도가 높으신 분 채용조건 계약직(연구인턴십) - 2022년 1월 ~ 2022년 6월 (만 6개월)
 주 12.</description>
-    </item>
-    
-    <item>
-      <title>정관</title>
-      <link>https://ravenearth.com/ir/aoi/</link>
-      <pubDate>Tue, 23 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://ravenearth.com/ir/aoi/</guid>
-      <description>제1장 총칙 제1조 ( 상호 )
-당 회사는 주식회사 레이븐어스라 하며, 영문으로는 Ravenearth Inc.라 표기한다.
-제2조 ( 목적 )
-당 회사는 다음 사업을 목적으로 한다.
-광고업 영화, 비디오물, 방송 프로그램 제작 및 배급업 전자 부품, 컴퓨터, 영상, 음향 및 통신장비 제조업 소프트웨어 개발 및 공급업 위 각 호에 관련된 부대사업 일체 제3조 ( 본점과 지점 )
-당 회사는 본점을 경기도 안산시 내에 둔다.
-필요에 따라 국내 및 해외에 지점 또는 출장소 및 영업소를 둘 수 있다.</description>
     </item>
     
   </channel>
